@@ -1,5 +1,3 @@
-Here's the code breakdown and explanation formatted for a README file. You can copy and paste this directly into your README to explain each part of the Yelp Review Classification project.
-
 ---
 
 # Yelp Review Classification Project
@@ -204,4 +202,3 @@ print(f'Area Under Curve (AUC): {roc_auc:.4f}')
 
 ---
 
-By following these steps, you can reproduce this project and understand the workflow of building a text classification model using logistic regression and Scikit-Learn. This breakdown explains each component's role in the model-building process.
